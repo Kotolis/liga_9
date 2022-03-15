@@ -1,9 +1,6 @@
 package classes;
 
-import classes.Class_4;
 import org.testng.annotations.*;
-
-import java.lang.reflect.Method;
 
 public class Class_2 {
 
