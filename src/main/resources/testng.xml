@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suit1">
+    <test name="test с первым классом">
+        <classes>
+            <class name="classes.Class_1"/>
+        </classes>
+    </test>
+
+    <test name="test с четвертым классом классом">
+        <classes>
+            <class name="classes.Class_4"/>
+        </classes>
+    </test>
+
+    <test name="test со вторым классом">
+        <classes>
+            <class name="classes.Class_2"/>
+        </classes>
+    </test>
+
+    <test name="test с третьим классом">
+        <classes>
+            <class name="classes.Class_3"/>
+        </classes>
+    </test>
+</suite>
