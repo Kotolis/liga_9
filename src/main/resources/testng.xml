@@ -8,7 +8,7 @@
         </classes>
     </test>
 
-    <test name="test с четвертым классом классом">
+    <test name="test с четвертым классом">
         <classes>
             <class name="classes.Class_4"/>
         </classes>
